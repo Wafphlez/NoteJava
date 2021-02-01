@@ -41,6 +41,7 @@ Just a simple Note App.
 
 # Used software
 * Android Studio
+* Figma
 
 # User hardware
 * My old phone
