@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/layoutNote"
+    android:layout_marginStart="8dp"
+    android:layout_marginTop="8dp"
+    android:background="@drawable/background_note">
+
+    <TextView
+        android:id="@+id/textTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="14dp"
+        android:layout_marginEnd="14dp"
+        android:layout_marginTop="14dp"
+        android:fontFamily="@font/helveticaneuecyr_bold"
+        android:includeFontPadding="false"
+        android:textColor="@color/textDark"
+        android:textSize="16sp"/>
+
+    <TextView
+        android:id="@+id/textDescription"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="14dp"
+        android:layout_marginVertical="7dp"
+        android:fontFamily="@font/helveticaneuecyr_medium"
+        android:includeFontPadding="false"
+        android:textColor="@color/textDarkAlt"
+        android:textSize="12sp" />
+
+    <TextView
+        android:id="@+id/textDateTime"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="7dp"
+        android:layout_marginBottom="2dp"
+        android:layout_marginHorizontal="14dp"
+        android:textSize="10sp"
+        android:textAlignment="center"
+        android:textColor="@color/textDarkAlt"
+        android:fontFamily="@font/helveticaneuecyr_light"
+        android:includeFontPadding="false"
+        tools:ignore="SmallSp" />
+
+</LinearLayout>

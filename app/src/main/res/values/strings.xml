@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Note Java</string>
+    <string name="search_hint">Search for notes</string>
+    <string name="create_with_link">Create with link</string>
+    <string name="create_with_picture">Create with picture</string>
+    <string name="create_note">Create note</string>
+    <string name="back">Back</string>
+    <string name="done">Done</string>
+    <string name="note_title">Note Title</string>
+    <string name="note_description">Note Description</string>
+    <string name="type_your_note">Type your note..</string>
+</resources>
