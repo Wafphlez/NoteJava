@@ -44,9 +44,11 @@ Just a simple Note App.
 * Android Studio
 * Figma
 
-# User hardware
+# Used hardware
 * My old phone
->poor guy :(
+> poor guy :(
+* PC
+> Not that poor actually
 
-### Development
+## Development
 Clone and make your own build, become an alpha tester!
