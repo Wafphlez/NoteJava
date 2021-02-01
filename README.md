@@ -30,15 +30,15 @@ Just a simple Note App.
 >No, really. As simlpe as that.
 
 ### So you can:
-* Keep notes
-* Recolor them
-* Add a description to each individual note
-* Use embedded search
+* Keep notes 📝 
+* Change colors 🟥🟨🟩🟦
+* Add a description to each individual note 🗒 
+* Use embedded search 🔍
 
 # Screenshots
 ### Screenshots will be available soon...
 ![Note Java](https://i.imgur.com/12CzYhe.png)
-### /me Under construction
+### /me Under construction 🚧 🏗 
 
 # Used software
 * Android Studio
