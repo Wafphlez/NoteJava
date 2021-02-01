@@ -37,6 +37,7 @@ Just a simple Note App.
 
 # Screenshots
 ### Screenshots will be available soon...
+![Note Java](https://i.imgur.com/12CzYhe.png)
 ### /me Under construction
 
 # Used software
