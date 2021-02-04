@@ -3,11 +3,6 @@
 
 
 <p align="center">
-  <h3 align="center">
-  
-  [![Twitter][twitter-shield]][twitter-url]
-  
-  </h3>
 
   <p align="center">
     <a href="https://github.com/Wafphlez">View My Profile</a>
